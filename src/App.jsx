@@ -394,10 +394,10 @@ const App = () => {
             <button>Subscribe to news</button>
           </div>
         </div>
-        <div className="copyright">
+        {/* <div className="copyright">
           <p>© 2023 Positivus. All Rights Reserved.</p>
           <p>Privacy Policy</p>
-        </div>
+        </div> */}
       </footer>
     </>
   )
